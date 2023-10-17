@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **williamarosado@gmail.com**
 
-- 📄 Know about my experiences [i dont had experiences working](i dont had experiences working)
+- 📄 Know about my experiences (i dont had experiences working in sciencomputer) (I Work super ahorro eliud cashier for 4 years)
 
 - ⚡ Fun fact **I am funny and i like to learn with companion**
 
