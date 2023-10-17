@@ -7,8 +7,8 @@
 
 - 💬 Ask me about **I am available 24/7**
 
-- 📫 How to reach me **williamarosado@gmail.com**
-                      **939-264-3232**
+- 📫 How to reach me **williamarosado@gmail.com**  **939-264-3232**
+                     
 
 - 📄 Know about my experiences (i dont had experiences working in sciencomputer) (I Work super ahorro eliud cashier for 4 years)
 
