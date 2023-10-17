@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm William A.Rosado</h1>
-<h3 align="center">I had 4 year digree in Science Computer And am from Puerto Rico</h3>
+<h1 align="center">Hi 👋, I'm William A.Rosado Pérez and am Puerto Rico</h1>
+<h3 align="center">I had 4 year digree in Science Computer and a Programer</h3>
 
 - 🌱 I’m currently learning **Python and more lenguaje available i can learn**
 
