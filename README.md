@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm William A.Rosado Pérez</h1>
 <h3 align="center">I had 4 year digree in Science Computer and a Programer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🌱 I’m currently learning **Python and more lenguaje available i can learn**
 
