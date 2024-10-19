@@ -2,17 +2,14 @@
 <h3 align="center">I have a 4-year degree in Computer Science and I'm a Programmer and Software Developer</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🌱 I’m currently learning **Python and more languages I can explore**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Puppywill/Mi_Proyectos.git](https://github.com/Puppywill/Mi_Proyectos.git)
 
-- 💬 Ask me about **I’m available 24/7**
 
 - 📫 How to reach me: **williamarosado@gmail.com** | **+1-939-264-3232**
                      
-- 📄 Know about my experience: *(I don't have experience working in computer science yet, but I worked at Super Ahorro Eliud as a cashier for 4 years)*
 
-- ⚡ Fun fact: **I’m funny and I love learning with others**
+
 
 <h3 align="left">Connect with me 🧾:</h3>
 <p align="left">
