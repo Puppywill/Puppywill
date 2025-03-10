@@ -34,7 +34,7 @@
 ## 📬 **How to Reach Me**
 - 📧 **Email:** [williamarosado@gmail.com](mailto:williamarosado@gmail.com)
 - 💼 **LinkedIn:** [William A. Rosado Pérez](https://linkedin.com/in/william-a-rosado-pérez-0a91b5297/)
-- 🔗 **Portfolio:** [William-Potafolio](https://wrosado-portafolio.netlify.app/).
+- 🔗 **Portfolio:** [William-Potafolio](https://wrosado-portafolio.netlify.app/)
 
 ---
 
