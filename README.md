@@ -1,39 +1,52 @@
-Hi 👨‍💻, I'm William A. Rosado Pérez
+<h1 align="center">Hi 👋, I'm William A. Rosado Pérez</h1>
+<h3 align="center">Software Developer | Computer Science Graduate</h3>
 
-📚 About Me
+<p align="center">
+  Passionate about technology, coding, and problem-solving. Always eager to explore new technologies and build innovative applications.
+</p>
 
-I'm a Software Developer with a Bachelor's Degree in Computer Science. Passionate about coding, problem-solving, and developing innovative software solutions.
+---
 
-💻 Currently working on full-stack development projects.
+## 👨‍💻 **About Me**
+- 🎓 **Computer Science Graduate** with hands-on experience in full-stack development.
+- 🚀 Always learning and exploring new tools to enhance my coding skills.
+- 💡 Passionate about developing applications that make a meaningful impact.
+- 🔍 Interested in **Web Development, Databases, and AI**.
 
-🎓 Bachelor’s in Computer Science.
+---
 
-📝 Learning cloud computing & DevOps.
+## 🛠 **Skills & Technologies**
 
-🌟 Love working with JavaScript, Python, and SQL.
+### **Programming Languages**
+- JavaScript (React, Node.js), Python, C#, Java
 
-👨‍💻 Open to collaboration on new projects!
+### **Databases**
+- MySQL, PostgreSQL, SQLite, Firebase
 
-💻 My Projects
+### **Development Tools**
+- Git, GitHub, Docker, Postman, VS Code
 
-You can check out all my projects on GitHub.
+### **Frameworks & Libraries**
+- React.js, Express.js, Tailwind CSS, Bootstrap, Material-UI
 
-💌 Contact Me
+---
 
-Email: williamarosado@gmail.com
+## 📬 **How to Reach Me**
+- 📧 **Email:** [williamarosado@gmail.com](mailto:williamarosado@gmail.com)
+- 💼 **LinkedIn:** [William A. Rosado Pérez](https://linkedin.com/in/william-a-rosado-pérez-0a91b5297/)
+- 🔗 **Portfolio:** [Coming Soon!]
 
-Phone: +1-939-264-3232
+---
 
-LinkedIn: William A. Rosado Pérez
+## 📊 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppywill&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=puppywill&show_icons=true&theme=radical" />
+</p>
 
-📝 Technologies & Tools
+---
 
-🎨 GitHub Stats
+### ⚡ **Fun Fact**
+💡 I enjoy working on **cool projects** and **exploring new tech stacks**.
 
-📚 Fun Fact
-
-🎮 I enjoy game development & creating casino-style apps!
-
-🛠️ Always excited to learn new technologies!
-
-Let's build something amazing together!
+---
