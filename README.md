@@ -11,7 +11,7 @@
 - 🎓 **Computer Science Graduate** with hands-on experience in full-stack development.
 - 🚀 Always learning and exploring new tools to enhance my coding skills.
 - 💡 Passionate about developing applications that make a meaningful impact.
-- 🔍 Interested in **Web Development, Databases, and AI**.
+- 🔍 Interested in **Web Development, Databases,Full-Stack and AI**.
 
 ---
 
