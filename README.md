@@ -72,7 +72,7 @@ Passionate about technology, coding, problem-solving, and building practical sof
 
 * 📧 Email: [williamarosado@gmail.com](mailto:williamarosado@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/william-a-rosado-pérez-0a91b5297/
-* 🌐 Portfolio: https://wrosado-portafolio.netlify.app/
+* 🌐 Portfolio: [https://wrosado-portafolio.netlify.app/](https://wrosado-portafolio.vercel.app/)
 
 ---
 
