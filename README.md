@@ -1,52 +1,90 @@
+<h1 align="center">&lt;WR/&gt;</h1>
+
 <h1 align="center">Hi 👋, I'm William A. Rosado Pérez</h1>
-<h3 align="center">Software Developer | Computer Science Graduate</h3>
+<h3 align="center">Software Developer | IT Support | Database Support</h3>
 
 <p align="center">
-  Passionate about technology, coding, and problem-solving. Always eager to explore new technologies and build innovative applications.
+Passionate about technology, coding, problem-solving, and building practical software solutions. Always eager to learn new technologies and improve my technical skills.
 </p>
 
 ---
 
-## 👨‍💻 **About Me**
-- 🎓 **Computer Science Graduate** with hands-on experience in full-stack development.
-- 🚀 Always learning and exploring new tools to enhance my coding skills.
-- 💡 Passionate about developing applications that make a meaningful impact.
-- 🔍 Interested in **Web Development, Databases,Full-Stack and AI**.
+## 👨‍💻 About Me
+
+* 🎓 Bachelor's Degree in Computer Science.
+* 💼 Currently working in IT Support and Database Support.
+* 🗄️ Experience with SQL Server, MySQL, database management, reporting, and troubleshooting.
+* 🚀 Building software projects using C#, VB.NET, JavaScript, React, and SQL.
+* 🌱 Continuously learning new technologies and expanding my technical expertise.
+* 🔍 Interested in Software Development, Databases, Cybersecurity, Full-Stack Development, and AI.
 
 ---
 
-## 🛠 **Skills & Technologies**
+## 🛠 Skills & Technologies
 
-### **Programming Languages**
-- JavaScript (React, Node.js), Python, C#, Java
+### Programming Languages
 
-### **Databases**
-- MySQL, PostgreSQL, SQLite, Firebase
+* C#
+* VB.NET
+* JavaScript
+* Python
+* Java
+* SQL
 
-### **Development Tools**
-- Git, GitHub, Docker, Postman, VS Code
+### Databases
 
-### **Frameworks & Libraries**
-- React.js, Express.js, Tailwind CSS, Bootstrap, Material-UI
+* SQL Server
+* MySQL
+* PostgreSQL
+* SQLite
+
+### Development Tools
+
+* Visual Studio 2022
+* VS Code
+* SQL Server Management Studio (SSMS)
+* Git
+* GitHub
+* Postman
+* Docker
+
+### Frameworks & Libraries
+
+* React.js
+* Node.js
+* Express.js
+* Tailwind CSS
+* Bootstrap
 
 ---
 
-## 📬 **How to Reach Me**
-- 📧 **Email:** [williamarosado@gmail.com](mailto:williamarosado@gmail.com)
-- 💼 **LinkedIn:** [William A. Rosado Pérez](https://linkedin.com/in/william-a-rosado-pérez-0a91b5297/)
-- 🔗 **Portfolio:** [William- Portfolio](https://wrosado-portafolio.netlify.app/)
+## 📂 Featured Projects
+
+* 🎫 Help Desk Ticket System
+* 🌐 Personal Portfolio Website
+* 🛒 VentaGaming Management System
+* 🗄️ SQL Database Projects
+* 📊 Reporting & Dashboard Projects
 
 ---
 
-## 📊 **GitHub Stats**
+## 📬 How to Reach Me
+
+* 📧 Email: [williamarosado@gmail.com](mailto:williamarosado@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/william-a-rosado-pérez-0a91b5297/
+* 🌐 Portfolio: https://wrosado-portafolio.netlify.app/
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppywill&layout=compact&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=puppywill&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=puppywill&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puppywill&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-### ⚡ **Fun Fact**
-💡 I enjoy working on **cool projects** and **exploring new tech stacks**.
+### ⚡ Professional Goal
 
----
+To grow as a Software Developer and IT Professional while building impactful solutions, improving business processes, and expanding my expertise in software development, databases, and technology.
