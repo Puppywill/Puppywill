@@ -12,10 +12,13 @@ Passionate about technology, coding, problem-solving, and building practical sof
 ## 👨‍💻 About Me
 
 * 🎓 Bachelor's Degree in Computer Science.
-* 💼 Currently working in IT Support and Database Support.
-* 🗄️ Experience with SQL Server, MySQL, database management, reporting, and troubleshooting.
-* 🚀 Building software projects using C#, VB.NET, JavaScript, React, and SQL.
-* 🌱 Continuously learning new technologies and expanding my technical expertise.
+* 💼 IT Support / Help Desk and Database Support at Solutions By Design (since December 2024).
+* 🗄️ SQL Server (basic queries, backups, and data validation), MySQL, reporting, and troubleshooting.
+* 🌐 Networking fundamentals, Windows support, and hardware/software troubleshooting.
+* 🚀 Building software and web projects using VB.NET, C#, JavaScript, Python, SQL, Node.js, and Astro.
+* 📝 Technical documentation, QA testing, and user support.
+* 🛡️ Google Cybersecurity Professional Certificate (Coursera, 2024).
+* 🌎 Bilingual: English / Spanish.
 * 🔍 Interested in Software Development, Databases, Cybersecurity, Full-Stack Development, and AI.
 
 ---
@@ -24,47 +27,44 @@ Passionate about technology, coding, problem-solving, and building practical sof
 
 ### Programming Languages
 
-* C#
-* VB.NET
 * JavaScript
 * Python
-* Java
 * SQL
+* C#
+* VB.NET
 
 ### Databases
 
 * SQL Server
 * MySQL
-* PostgreSQL
-* SQLite
 
 ### Development Tools
 
+* Git
+* GitHub
 * Visual Studio 2022
 * VS Code
 * SQL Server Management Studio (SSMS)
-* Git
-* GitHub
-* Postman
-* Docker
 
 ### Frameworks & Libraries
 
-* React.js
 * Node.js
 * Express.js
+* React.js
 * Tailwind CSS
+* Astro
 * Bootstrap
 
 ---
 
 ## 📂 Featured Projects
 
-* 🎫 Help Desk Ticket System
-* 🌐 Personal Portfolio Website
-* 🛒 VentaGaming Management System
-* 🗄️ SQL Database Projects
-* 📊 Reporting & Dashboard Projects
+* 🐾 **[Puppywill AI Clipper](https://github.com/Puppywill/Puppywill-AI-Clipper)** — Windows desktop app that analyzes long gameplay and stream recordings, detects highlight moments using audio and video analysis, and exports clips in vertical, horizontal, or square formats. *Python, PySide6, FFmpeg, OpenCV.*
+* 🧾 **[Service Billing System](https://github.com/Puppywill/Service-Billing-System)** — Internal web application for service billing, client/project hour tracking, PDF invoice generation, reporting, role-based access, and SQL Server data management. *HTML, CSS, JavaScript, Node.js, Express, SQL Server.* Status: pending production deployment.
+* 🎫 **[Help Desk Ticket System](https://github.com/Puppywill/helpdesk-ticket-system)** — Help desk ticket management web app with authentication, role-based access, user administration, password recovery requests, notifications, and PDF/Excel reports. *HTML, CSS, JavaScript, Node.js, Express, SQL Server.*
+* 🌐 **[Personal Portfolio](https://github.com/Puppywill/Portafolio-)** — Bilingual portfolio website presenting my IT Support experience and featured projects. [Visit the live site](https://wrosado-portafolio.vercel.app/). *Astro, Tailwind CSS.*
+* 🎮 **[VentaGaming](https://github.com/Puppywill/Ventagaming)** — Desktop client management app for a gaming products company, with vendor login, client create/edit/delete/search, and Excel export. *VB.NET, MySQL (XAMPP).*
+* 🍽️ **[Chill's Restaurant](https://github.com/Puppywill/ChillsRestaurant)** — Collaborative team project: a restaurant web app with role-based access, menu management, and orders. My role: front-end developer. *ASP.NET MVC, SQL Server, Bootstrap.*
 
 ---
 
@@ -72,7 +72,7 @@ Passionate about technology, coding, problem-solving, and building practical sof
 
 * 📧 Email: [williamarosado@gmail.com](mailto:williamarosado@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/william-a-rosado-pérez-0a91b5297/
-* 🌐 Portfolio: [https://wrosado-portafolio.netlify.app/](https://wrosado-portafolio.vercel.app/)
+* 🌐 Portfolio: [https://wrosado-portafolio.vercel.app/](https://wrosado-portafolio.vercel.app/)
 
 ---
 
@@ -87,4 +87,4 @@ Passionate about technology, coding, problem-solving, and building practical sof
 
 ### ⚡ Professional Goal
 
-To grow as a Software Developer and IT Professional while building impactful solutions, improving business processes, and expanding my expertise in software development, databases, and technology.
+To grow as a Software Developer and IT Support / Database Support professional, building and supporting internal business systems and web applications with SQL Server while continuing to expand my technical skills.
